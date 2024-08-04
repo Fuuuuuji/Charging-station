@@ -1,4 +1,5 @@
 # Charging-station
+B站录播：https://www.bilibili.com/video/BV1A44y1R7p4/?share_source=copy_web&vd_source=edb0ca43b2a6285e7ce442401014e862&t=3521
 # Research Design
 ![image](https://github.com/Fuuuuuji/Charging-station/assets/165608722/b8daf29b-8433-4c2e-bab1-6cfbe003c40e)
 # Main Insights
